@@ -14,7 +14,7 @@
 
 # Introduction  
 
-# ‼️ CHECK THIS LINK : https://github.com/TBD54566975/ssi-sdk/issues/560
+# ‼️ READ THIS LINK : https://github.com/TBD54566975/ssi-sdk/issues/560
 
 Named `ssi-sdk`, this SDK encapsulates a set of standards related
 to [Self Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html).
