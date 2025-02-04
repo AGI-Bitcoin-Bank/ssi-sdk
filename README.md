@@ -1,4 +1,6 @@
-⚠️ This repository is not actively being maintained. For a go SDK please look at [web5-go](https://github.com/TBD54566975/web5-go/). ⚠️
+
+
+
 
 [![godoc ssi-sdk](https://img.shields.io/badge/godoc-ssi--sdk-blue)](https://pkg.go.dev/github.com/TBD54566975/ssi-sdk)
 [![go version 1.23.2](https://img.shields.io/badge/go_version-1.23.2-brightgreen)](https://golang.org/)
@@ -10,7 +12,9 @@
 
 # ssi-sdk
 
-# Introduction
+# Introduction  
+
+# ‼️ CHECK THIS LINK : https://github.com/TBD54566975/ssi-sdk/issues/560
 
 Named `ssi-sdk`, this SDK encapsulates a set of standards related
 to [Self Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html).
